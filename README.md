@@ -2,7 +2,7 @@
 Projeto do Curso de Formação ASP.Net Core - por LuisDev
 
 - Clean Architeture
-- CQRS com MediaTr
+- CQRS com MediatR
 - JWT com Swagger
 - Testes
 
